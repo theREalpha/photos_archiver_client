@@ -1,4 +1,5 @@
 # Photos Archiver Client
+
 CLI Client to download media from google photos. More details at [pha.ovh](https://pha.ovh)\
 A personal project to download media from google photos as their takeout takes ages to process and doesn't allow selectively downloading either only photos or videos.\
 *(Is currently in testing mode as is a personal project, hence is rate limited and only allowed for `test users`. Contact me through email or by creating an Issue if you want to be added as a tester to use this script).*\
